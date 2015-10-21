@@ -4,7 +4,6 @@ print('You jump', 'I jump')
 
 #print()会依次打印每个字符串，遇到逗号输出一个空格
 
-print(300)
 
 print(100 + 200)
 
