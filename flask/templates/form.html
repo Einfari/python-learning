@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Login Form</title>
+    </head>
+    <body>
+        {% if message %}
+        <p style="color: red">{{ message }}</p>
+        {% endif %}
+        <form action="/signin" method="post">
+            <input type="text" name="username" placeholder="username" {% if username %}value={{ username }} {% endif %}/>
+            <input type="password" name="password" placeholder="password" />
+            <button type="submit">Sign in<button>
+        </form>
+    </body>
+</html>
