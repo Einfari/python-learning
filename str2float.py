@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
 # File Name: str2float.py
-# Author: saturn
+# Author: Lipsum
 # Mail: niuleipeng@gmail.com
 # Created Time: 2016-05-12 10:26:43
 

@@ -1,12 +1,12 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
 # File Name: hello.py
-# Author: saturn
+# Author: Lipsum
 # Mail: niuleipeng@gmail.com
 # Created Time: 2016-05-12 14:32:31
 
-__author__ = 'Saturn'
+__author__ = 'Lipsum'
 
 import sys
 

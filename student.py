@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
 # File Name: student.py
-# Author: saturn
+# Author: Lipsum
 # Mail: niuleipeng@gmail.com
 # Created Time: 2016-05-12 14:51:48
 
@@ -27,5 +27,5 @@ class Student(object):
         print(self.__name,self.__age)
 
 if __name__ == '__main__':
-    saturn = Student('saturn',24)
-    saturn.print_s()
+    Lipsum = Student('Lipsum',24)
+    Lipsum.print_s()

@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
 # File Name: fetch_xml.py
-# Author: saturn
+# Author: Lipsum
 # Mail: niuleipeng@gmail.com
 # Created Time: 2016-05-16 15:59:21
 

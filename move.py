@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
 # File Name: move.py
-# Author: saturn
+# Author: Lipsum
 # Mail: niuleipeng@gmail.com
 # Created Time: 2016-05-11 18:01:51
 

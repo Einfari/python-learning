@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin python3
 # -*- coding:utf-8 -*-
 
 # File Name: fact.py

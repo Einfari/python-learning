@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
 # File Name: func.py
-# Author: saturn
+# Author: Lipsum
 # Mail: niuleipeng@gmail.com
 # Created Time: 2016-05-11 17:03:21
 
@@ -29,7 +29,7 @@ def calc(numbers):
         sum = sum + num
     return sum
 
-calc([1,2,,3,4])
+calc([1,2,3,4])
 calc((1,2,3,4))
 
 #可变参数
@@ -50,10 +50,10 @@ calc_1(*nums)
 def person(name, age, **kw):
     print(name, age, kw)
 
-person('saturn', 24, gender='M', city='SH')
+person('Lipsum', 24, gender='M', city='SH')
 
 extra = {'city': 'SH', 'job': 'CS'}
-person('saturn', 24, **extra}
+person('Lipsum', 24, **extra)
 
 
 #命名关键字参数，如果要限制关键字参数的名字，就可以用命名关键字参数
